@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PluginTech.iml" filepath="$PROJECT_DIR$/PluginTech.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamiclib/dynamiclib.iml" filepath="$PROJECT_DIR$/dynamiclib/dynamiclib.iml" />
     </modules>
   </component>
 </project>
